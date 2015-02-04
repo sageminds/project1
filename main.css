@@ -1,0 +1,48 @@
+/* Project 1 | Meg Storm | Udacity Front End Developer Nanodegree  */
+
+body {
+	font-family: Kalimati, Verdana, sans-serif;
+	color: #666;
+}
+
+h1 {
+	color: #666;
+	font-size: 48px;
+}
+
+h2 {
+	color: #f07C17;
+	font-size: 24px;
+	font-weight: bold;
+	padding-bottom: 20px;}
+
+p {
+	font-size: 16px;
+	line-height: 32px;
+}
+
+ul,
+ol {
+	padding: 5px 0 0 40px;
+	margin-bottom: 11px;
+}
+
+li {
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+
+.image-size {
+	width: 374px;
+	margin-top: 20px;
+}
+
+.container {
+	margin: 25px 0 0 27px;
+}
+
+.box-rule {
+	border: 1px solid #ccc;
+	margin-top: 30px;
+	padding: 10px 0 34px 30px;
+}

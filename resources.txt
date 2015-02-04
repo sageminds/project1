@@ -1,0 +1,19 @@
+I read through the Bootstrap documentation to ensure I pulled only the information I needed.
+
+I reread information on Flex Boxes from here:
+http://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+I needed to read and re-read the instructor notes carefully to be sure I had all the set up information correct. The tip to overlay the pdf transparently on the code was SUPER!
+
+I sketched the page structure and then wrote the html code. I read through the bootstrap.css file and realized that the grid and normalize.css code was all taken care. 
+
+From there, I wrote the basic CSS elements I still needed to tweak.
+
+I read through the posts and of classmates in the Piazza space to make sure I wasn't missing something important. I waited to review the posts until this phase of the project because I wanted to make sure I struggled through, and solved, my own issues.
+
+I could visually see that I was very close, and was able to focus on minor CSS tweaks and was thrilled when I submitted with a 0% mismatch!
+
+In the end the only resources that I really needed was here:
+Instructor Notes
+http://getbootstrap.com/customize/
+https://piazza.com
